@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Header](https://raw.githubusercontent.com/mlynch5187/mlynch5187/Goalsetter.png "Header")](https://some-url.dev/)
+
 <!--
 **mlynch5187/mlynch5187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
