@@ -1,4 +1,4 @@
-## Hello! 👋 I'm Alex, and I'm a software developer in Denver, Colorado! You can find me on [![my personal website]][1], or on [![LinkedIn][3.2]][3].
+## Hello! 👋 I'm Alex, and I'm a software developer in Denver, Colorado! You can find me on [!my personal website][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
