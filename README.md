@@ -2,7 +2,7 @@
 
 [![Header](https://raw.githubusercontent.com/mlynch5187/mlynch5187/main/Goalsetter.png "Header")](https://mlynch5187.github.io/)
 
-- 🔭 I’m currently working on ... Finding my development job!
+- 🔭 I’m currently working on ... Finding my first professional development job!
 - 🌱 I’m currently learning ... Python, Vue and Flask
 - 👯 I’m looking to collaborate on ... I'm open, let's talk!
 - 🤔 I’m looking for help with ... Implementing multiple bootstrap modals
@@ -12,3 +12,5 @@
 - ⚡ Fun fact: ... I really love cooking!
 
 [![Michael Alex's github stats](https://github-readme-stats.vercel.app/api?username=mlynch5187)](https://github.com/mlynch5187/github-readme-stats)
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
