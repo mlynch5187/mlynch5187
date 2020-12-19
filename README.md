@@ -1,7 +1,7 @@
 ## Hello! 👋 I'm Alex, and I'm a software developer in Denver, Colorado! You can find me on [my personal website][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
-[2.2]: https://raw.githubusercontent.com/mlynch5187/mlynch5187/main/LI-In-Bug.png | width=100
+[2.2]: (https://raw.githubusercontent.com/mlynch5187/mlynch5187/main/LI-In-Bug.png {width=40px height=400px})
 
 <!-- Links to your social media accounts -->
 
