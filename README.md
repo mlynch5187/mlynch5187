@@ -1,4 +1,4 @@
-## Hello! 👋 I'm Alex, and I'm a software developer in Denver, Colorado! 
+## Hello! 👋 I'm Alex, I'm a software developer in Denver, Colorado! 
 
 ### You can find me on [my personal website][1], or on [LinkedIn][2].
 
@@ -22,5 +22,3 @@
 - ⚡ Fun fact: ... I really love cooking!
 
 [![Michael Alex's github stats](https://github-readme-stats.vercel.app/api?username=mlynch5187)](https://github.com/mlynch5187/github-readme-stats)
-
-![](https://img.shields.io/badge/<LinkedIn>-<michaelalexlynch>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
