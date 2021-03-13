@@ -21,6 +21,4 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I really love cooking! I'm an advocate of real, fresh food made with real ingredients.
 
-[![Michael Alex's github stats](https://github-readme-stats.vercel.app/api?username=mlynch5187&theme=tokyonight&count_private=true&count_private=true)](https://github.com/mlynch5187/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlynch5187&theme=tokyonight)](https://github.com/mlynch5187/github-readme-stats)
+[![Michael Alex's github stats](https://github-readme-stats.vercel.app/api?username=mlynch5187&theme=tokyonight&count_private=true&count_private=true)](https://github.com/mlynch5187/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlynch5187&theme=tokyonight)](https://github.com/mlynch5187/github-readme-stats)
