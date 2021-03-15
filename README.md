@@ -12,7 +12,7 @@
 
 [![Header](https://raw.githubusercontent.com/mlynch5187/mlynch5187/main/Goalsetter.png "Header")](https://mlynch5187.github.io/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlynch5187&repo=mlynch5187)](https://github.com/mlynch5187/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mlynch5187&repo=battleship)](https://github.com/mlynch5187/github-readme-stats)
 
 - 🔭 I’m currently working on ... A real estate application, and reviewing past Ruby work.
 - 🌱 I’m currently learning ... how to rewrite my Ruby code in Javascript.
