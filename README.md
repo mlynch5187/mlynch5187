@@ -1,13 +1,12 @@
 ## Hello! 👋 I'm Alex, I'm a software developer in Denver, Colorado! 
 
-### You can find me on [my personal website][1], or on [LinkedIn][2].
+### You can find me on [LinkedIn][2].
 
 <!-- Icons -->
 [2.2]: (https://raw.githubusercontent.com/mlynch5187/mlynch5187/main/LI-In-Bug.png
 
 <!-- Links to your social media accounts -->
 
-[1]: https://mlynch5187.github.io
 [2]: https://www.linkedin.com/in/michaelalexlynch/
 
 [![Header](https://raw.githubusercontent.com/mlynch5187/mlynch5187/main/Goalsetter.png "Header")](https://mlynch5187.github.io/)
