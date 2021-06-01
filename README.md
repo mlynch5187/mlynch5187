@@ -11,8 +11,8 @@
 
 [![Header](https://raw.githubusercontent.com/mlynch5187/mlynch5187/main/Goalsetter.png "Header")](https://mlynch5187.github.io/)
 
-- 🔭 I’m currently working on ... A real estate application. I built the backend and am practicing bootstrap on the frontend. I'm also reviewing past Ruby work.
-- 🌱 I’m currently learning ... how to rewrite my Ruby code in Javascript.
+- 🔭 I’m currently working on ... Improving my front end abilities.
+- 🌱 I’m currently learning ... Javascript.
 - 👯 I’m looking to collaborate on ... Anything Elixir-related, or Ruby on Rails.
 - 🤔 I’m looking for help with ... Improving code refactoring. Please share your thoughts!
 - 💬 Ask me about ... The Turing School of Software & Design
