@@ -1,4 +1,4 @@
-## Hello! 👋 I'm Alex, I'm a software developer in Denver, Colorado! 
+## Hello! 👋 I'm Alex, I'm a graduate of Turing School of Software and design in Denver, Colorado! 
 
 ### You can find me on [LinkedIn][2].
 
