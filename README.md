@@ -11,10 +11,9 @@
 
 [![Header](https://raw.githubusercontent.com/mlynch5187/mlynch5187/main/Goalsetter.png "Header")](https://mlynch5187.github.io/)
 
-- 🔭 I’m currently working on ... Practicing JS and ROR.
+- 🔭 I’m currently working on ... Mentoring students in Ruby on Rails.
 - 🌱 I’m currently learning ... How to leverage my iB2B experience and software skills.
-- 👯 I’m looking to collaborate on ... Mentoring students in Ruby on Rails.
-- 🤔 I’m looking for help with ... Improving code refactoring. Please share your thoughts!
+- 👯 I’m looking to collaborate on ... A project that uses Elixir and GraphQL.
 - 💬 Ask me about ... The Turing School of Software & Design
 - 📫 How to reach me: ... mlynch5187@gmail.com
 - 😄 Pronouns: ... He/Him
