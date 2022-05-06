@@ -1,4 +1,4 @@
-## Hello! 👋  I'm a graduate of Turing School of Software and design in Denver, Colorado! 
+## Hello! 👋  I'm a graduate of Turing School of Software and design in Denver, Colorado! I work at Invoca, a California tech company.
 
 ### You can find me on [LinkedIn][2].
 
