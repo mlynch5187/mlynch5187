@@ -1,4 +1,4 @@
-## Hello! 👋  I'm Alex, a graduate of Turing School of Software and design in Denver, Colorado! I work at Invoca, a SaaS company based out of Santa Barbara, California.
+## Hello! 👋  I'm Alex, I like technology.
 
 ### You can find me on [LinkedIn][2].
 
